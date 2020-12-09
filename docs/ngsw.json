@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607483405323,
+  "timestamp": 1607485465687,
   "index": "/AngularBooksPWA/index.html",
   "assetGroups": [
     {
@@ -16,8 +16,8 @@
         "/AngularBooksPWA/7-es5.dd5038a0edc39d4d7224.js",
         "/AngularBooksPWA/favicon.ico",
         "/AngularBooksPWA/index.html",
-        "/AngularBooksPWA/main-es2015.e01b50c029795673cb9e.js",
-        "/AngularBooksPWA/main-es5.e01b50c029795673cb9e.js",
+        "/AngularBooksPWA/main-es2015.26bc8910c3c1229a7ba3.js",
+        "/AngularBooksPWA/main-es5.26bc8910c3c1229a7ba3.js",
         "/AngularBooksPWA/manifest.webmanifest",
         "/AngularBooksPWA/polyfills-es2015.b4a3bdae6bcd059f26dd.js",
         "/AngularBooksPWA/polyfills-es5.8e16724e01f65bc4b968.js",
@@ -61,9 +61,9 @@
     "/AngularBooksPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/AngularBooksPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/AngularBooksPWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/AngularBooksPWA/index.html": "6e25f752e70c821a86902df050f26d20a1eb7865",
-    "/AngularBooksPWA/main-es2015.e01b50c029795673cb9e.js": "86955ae7a702e7292930abae6b775868ee604903",
-    "/AngularBooksPWA/main-es5.e01b50c029795673cb9e.js": "949c2bc71a02d5e0b989bfe3cc030fff64b3f30a",
+    "/AngularBooksPWA/index.html": "18205eb3369e2be919c2acaefe423cb9bff1965d",
+    "/AngularBooksPWA/main-es2015.26bc8910c3c1229a7ba3.js": "7d878134a57d926cbc565fde2fc744d7bf21040f",
+    "/AngularBooksPWA/main-es5.26bc8910c3c1229a7ba3.js": "418d103f2a6879bcbfcd35922cbc267f9e9382a7",
     "/AngularBooksPWA/manifest.webmanifest": "ee131ad53123c734cff66b11fbae70ec69630ad6",
     "/AngularBooksPWA/polyfills-es2015.b4a3bdae6bcd059f26dd.js": "695085348af3817c3037a9e26bd49d76aff1ec34",
     "/AngularBooksPWA/polyfills-es5.8e16724e01f65bc4b968.js": "31e05956f017016babdcc2e16b1e79497acb8678",
