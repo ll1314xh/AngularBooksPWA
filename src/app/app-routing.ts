@@ -3,10 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 import { OktaCallbackComponent, OktaAuthGuard } from '@okta/okta-angular';
 
 const routes: Routes = [
-  {
-    path: '',
-    pathMatch: 'full',
-    redirectTo: 'home'
+  { path: '',
+  loadChildren: () => import('./home/home.module').then(mod => mod.HomeModule)
   },
   { path: 'home',
   loadChildren: () => import('./home/home.module').then(mod => mod.HomeModule)
